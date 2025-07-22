@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/harinietturouthu/leetcodeharini/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/harinietturouthu/leetcodeharini/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |

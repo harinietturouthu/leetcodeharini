@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Simulation
 |  |
 | ------- |

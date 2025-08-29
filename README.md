@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/harinietturouthu/leetcodeharini/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/harinietturouthu/leetcodeharini/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/harinietturouthu/leetcodeharini/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/harinietturouthu/leetcodeharini/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/harinietturouthu/leetcodeharini/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/harinietturouthu/leetcodeharini/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/harinietturouthu/leetcodeharini/tree/master/1625-group-sold-products-by-the-date) |

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/harinietturouthu/leetcodeharini/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/harinietturouthu/leetcodeharini/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/harinietturouthu/leetcodeharini/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1670-patients-with-a-condition](https://github.com/harinietturouthu/leetcodeharini/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/harinietturouthu/leetcodeharini/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/harinietturouthu/leetcodeharini/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

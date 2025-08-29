@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/harinietturouthu/leetcodeharini/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/harinietturouthu/leetcodeharini/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/harinietturouthu/leetcodeharini/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/harinietturouthu/leetcodeharini/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/harinietturouthu/leetcodeharini/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/harinietturouthu/leetcodeharini/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/harinietturouthu/leetcodeharini/tree/master/1670-patients-with-a-condition) |

@@ -104,4 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/1916-find-center-of-star-graph) |
+| [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

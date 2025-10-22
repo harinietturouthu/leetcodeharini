@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/harinietturouthu/leetcodeharini/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/harinietturouthu/leetcodeharini/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/harinietturouthu/leetcodeharini/tree/master/1908-recyclable-and-low-fat-products) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

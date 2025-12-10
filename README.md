@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/harinietturouthu/leetcodeharini/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
+| [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/harinietturouthu/leetcodeharini/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
 | ------- |

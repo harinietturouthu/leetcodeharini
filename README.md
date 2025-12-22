@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
+| [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/harinietturouthu/leetcodeharini/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/harinietturouthu/leetcodeharini/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
+| [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

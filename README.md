@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |

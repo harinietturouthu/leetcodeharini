@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/harinietturouthu/leetcodeharini/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/harinietturouthu/leetcodeharini/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0908-middle-of-the-linked-list) |
 ## Stack

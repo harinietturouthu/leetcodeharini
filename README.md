@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/harinietturouthu/leetcodeharini/tree/master/0728-self-dividing-numbers) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harinietturouthu/leetcodeharini/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
@@ -63,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
@@ -191,10 +195,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

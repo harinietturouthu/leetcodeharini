@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harinietturouthu/leetcodeharini/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -215,5 +218,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

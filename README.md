@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0136-single-number) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/harinietturouthu/leetcodeharini/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
@@ -212,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

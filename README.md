@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

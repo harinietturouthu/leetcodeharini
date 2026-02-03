@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/harinietturouthu/leetcodeharini/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harinietturouthu/leetcodeharini/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harinietturouthu/leetcodeharini/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 ## Union-Find
 |  |

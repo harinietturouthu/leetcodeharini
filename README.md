@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/harinietturouthu/leetcodeharini/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/harinietturouthu/leetcodeharini/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |

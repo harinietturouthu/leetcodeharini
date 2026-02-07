@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/harinietturouthu/leetcodeharini/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/harinietturouthu/leetcodeharini/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harinietturouthu/leetcodeharini/tree/master/0066-plus-one) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harinietturouthu/leetcodeharini/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/harinietturouthu/leetcodeharini/tree/master/0704-binary-search) |

@@ -1,45 +1,23 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findFirst(nums, target);
-        int last = findLast(nums, target);
-        return new int[]{first, last};
-    }
-
-    private int findFirst(int[] nums, int target) {
-        int start = 0, end = nums.length - 1;
-        int ans = -1;
-
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                end = mid - 1;       // keep searching left
-            } else if (nums[mid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
+     int n=nums.length;
+     int first=0;
+     int last=0;
+     if(n==1&&nums[0]==target){ return new int[]{0,0};}
+     if(n==1&&nums[0]!=target){return new int[]{-1,-1};}
+     for(int i=0;i<n;i++){
+         if(nums[i]==target){
+            first=i;
+            last=i;
+            while(last+1<n&&nums[last+1]==target){
+                last=last+1;
+              
             }
-        }
-        return ans;
+            return new int[]{first,last};
+     }
+     }
+         return new int[]{-1,-1};
     }
 
-    private int findLast(int[] nums, int target) {
-        int start = 0, end = nums.length - 1;
-        int ans = -1;
+    }  
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                start = mid + 1;      // keep searching right
-            } else if (nums[mid] < target) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
-        }
-        return ans;
-    }
-}

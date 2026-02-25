@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harinietturouthu/leetcodeharini/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harinietturouthu/leetcodeharini/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/harinietturouthu/leetcodeharini/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->

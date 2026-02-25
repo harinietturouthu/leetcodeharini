@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harinietturouthu/leetcodeharini/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/harinietturouthu/leetcodeharini/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harinietturouthu/leetcodeharini/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->

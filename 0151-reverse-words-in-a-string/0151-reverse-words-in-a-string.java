@@ -1,6 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
-        s=s.trim();
+      /* s=s.trim();
        int  n=s.length();
        StringBuilder result=new StringBuilder();
         int i=n-1;
@@ -11,7 +11,7 @@ class Solution {
                 result.append(" ");
                 j=i-1;
             }
-            //this lines are ther because the j should the reach the word it should not be in space*/ 
+            //this lines are ther because the j should the reach the word it should not be in space 
             while(j >= 0 && s.charAt(j) == ' '){
                     j--;
                 }
@@ -19,5 +19,20 @@ class Solution {
         }
         result.append(s.substring(0,j+1));
         return result.toString().trim(); 
+*/
+//using another easy method
+int n=s.length();
+s=s.trim();
+String [] words=s.split("\\s+");
+int i=0;
+int j=words.length-1;
+while(i<words.length/2){
+    String temp=words[i];
+    words[i]=words[j];
+    words[j]=temp;
+    i++;
+    j--;
 }
+return String.join(" ", words);
+    }
 }

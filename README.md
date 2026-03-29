@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -273,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/1903-largest-odd-number-in-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

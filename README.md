@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/1903-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Recursion
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
 | ------- |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/harinietturouthu/leetcodeharini/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/harinietturouthu/leetcodeharini/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/harinietturouthu/leetcodeharini/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |

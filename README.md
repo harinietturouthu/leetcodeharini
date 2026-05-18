@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
@@ -296,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

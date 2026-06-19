@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harinietturouthu/leetcodeharini/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0260-single-number-iii) |
@@ -205,12 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 ## Sorting
 |  |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |

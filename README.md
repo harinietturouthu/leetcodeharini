@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

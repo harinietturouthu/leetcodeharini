@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/harinietturouthu/leetcodeharini/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harinietturouthu/leetcodeharini/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/harinietturouthu/leetcodeharini/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/harinietturouthu/leetcodeharini/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harinietturouthu/leetcodeharini/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/harinietturouthu/leetcodeharini/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harinietturouthu/leetcodeharini/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harinietturouthu/leetcodeharini/tree/master/0160-intersection-of-two-linked-lists) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/harinietturouthu/leetcodeharini/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harinietturouthu/leetcodeharini/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |

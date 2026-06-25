@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String Matching
 |  |
@@ -336,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

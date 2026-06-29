@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harinietturouthu/leetcodeharini/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harinietturouthu/leetcodeharini/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harinietturouthu/leetcodeharini/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/harinietturouthu/leetcodeharini/tree/master/0221-maximal-square) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harinietturouthu/leetcodeharini/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
 | ------- |

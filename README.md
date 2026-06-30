@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
@@ -253,15 +255,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -342,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harinietturouthu/leetcodeharini/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

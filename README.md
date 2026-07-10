@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |
 | ------- |
@@ -367,4 +369,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

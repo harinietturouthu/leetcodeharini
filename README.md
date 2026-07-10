@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harinietturouthu/leetcodeharini/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/harinietturouthu/leetcodeharini/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/harinietturouthu/leetcodeharini/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/harinietturouthu/leetcodeharini/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harinietturouthu/leetcodeharini/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harinietturouthu/leetcodeharini/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

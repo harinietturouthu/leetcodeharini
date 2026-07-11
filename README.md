@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/harinietturouthu/leetcodeharini/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harinietturouthu/leetcodeharini/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/harinietturouthu/leetcodeharini/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/1903-largest-odd-number-in-string) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/harinietturouthu/leetcodeharini/tree/master/0907-sum-of-subarray-minimums) |

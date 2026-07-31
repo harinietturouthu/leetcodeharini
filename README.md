@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/harinietturouthu/leetcodeharini/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harinietturouthu/leetcodeharini/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/harinietturouthu/leetcodeharini/tree/master/1903-largest-odd-number-in-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Recursion
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harinietturouthu/leetcodeharini/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Counting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harinietturouthu/leetcodeharini/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harinietturouthu/leetcodeharini/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |

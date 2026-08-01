@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harinietturouthu/leetcodeharini/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/harinietturouthu/leetcodeharini/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/harinietturouthu/leetcodeharini/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/harinietturouthu/leetcodeharini/tree/master/0402-remove-k-digits) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/harinietturouthu/leetcodeharini/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/harinietturouthu/leetcodeharini/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harinietturouthu/leetcodeharini/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harinietturouthu/leetcodeharini/tree/master/0210-course-schedule-ii) |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harinietturouthu/leetcodeharini/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

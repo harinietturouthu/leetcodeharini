@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/harinietturouthu/leetcodeharini/tree/master/0130-surrounded-regions) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/harinietturouthu/leetcodeharini/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harinietturouthu/leetcodeharini/tree/master/0130-surrounded-regions) |
@@ -400,12 +402,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |

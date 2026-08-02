@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harinietturouthu/leetcodeharini/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/harinietturouthu/leetcodeharini/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harinietturouthu/leetcodeharini/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/harinietturouthu/leetcodeharini/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/harinietturouthu/leetcodeharini/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/harinietturouthu/leetcodeharini/tree/master/0871-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/harinietturouthu/leetcodeharini/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harinietturouthu/leetcodeharini/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2121-find-if-path-exists-in-graph](https://github.com/harinietturouthu/leetcodeharini/tree/master/2121-find-if-path-exists-in-graph) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harinietturouthu/leetcodeharini/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harinietturouthu/leetcodeharini/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harinietturouthu/leetcodeharini/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/harinietturouthu/leetcodeharini/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -416,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harinietturouthu/leetcodeharini/tree/master/0144-binary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/harinietturouthu/leetcodeharini/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
